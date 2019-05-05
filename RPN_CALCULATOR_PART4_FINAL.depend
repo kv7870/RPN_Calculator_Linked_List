@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1555039594 source:c:\users\kv787\desktop\rpn_calculator_part4_final\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"stack.h"
+	"operator.h"
+	"linkedlist.h"
+
+1555040188 c:\users\kv787\desktop\rpn_calculator_part4_final\stack.h
+	"windows.h"
+	"stack.h"
+	"linkedlist.h"
+
+1555040129 c:\users\kv787\desktop\rpn_calculator_part4_final\operator.h
+	"stack.h"
+
+1555040394 source:c:\users\kv787\desktop\rpn_calculator_part4_final\operator.cpp
+	<iostream>
+	<cmath>
+	"operator.h"
+
+1555040597 source:c:\users\kv787\desktop\rpn_calculator_part4_final\linkedlist.cpp
+	<iostream>
+	"linkedlist.h"
+
+1555040503 c:\users\kv787\desktop\rpn_calculator_part4_final\linkedlist.h
+
+1555040056 source:c:\users\kv787\desktop\rpn_calculator_part4_final\stack.cpp
+	<iostream>
+	"windows.h"
+	"stack.h"
+

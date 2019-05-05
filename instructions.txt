@@ -1,0 +1,20 @@
+Welcome to Kevin's RPN calculator
+
+To perform an operation, enter the operand after the operators.
+
+For example, to perform 10/2: 
+	1) type "10" and press enter
+	2) type "2/" and press enter, OR enter "2" and "/" separately.
+
+Supported operators: + - * / ^
+To delete the top element, type 'd' and press enter.
+To clear the entire stack, type 'c' and press enter. 
+
+	
+	
+
+
+
+
+
+
